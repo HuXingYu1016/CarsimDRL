@@ -1,0 +1,53 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda*/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Runtime outputs
+logs/
+Results/
+TestResults/
+scripts/logs/
+scripts/Results/
+checkpoints/
+models/
+runs/
+analysis/
+
+# Large/generated experiment files
+*.zip
+*.pt
+*.pth
+*.onnx
+*.csv
+*.mat
+*.mp4
+*.avi
+events.out.tfevents*
+
+# CarSim proprietary/local assets
+resources/
+*.cpar
+*.sim
+*.par
+*.dll
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db

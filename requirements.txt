@@ -1,0 +1,16 @@
+torch
+numpy
+pandas
+matplotlib
+seaborn
+rich
+pycarsimlib
+setuptools
+stable-baselines3[extra]
+gymnasium
+typer
+tensorboard
+pydantic
+onnx
+onnxruntime
+onnxscript
